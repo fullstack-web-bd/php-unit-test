@@ -1,0 +1,17 @@
+{
+    "name": "akash/testing-php",
+    "autoload": {
+        "psr-4": {
+            "Akash\\TestingPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ManiruzzamanAkash",
+            "email": "manirujjamanakash@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
